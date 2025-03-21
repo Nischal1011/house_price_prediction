@@ -3,6 +3,9 @@
 ## Project Description
 The House Price Prediction System is a comprehensive machine learning project designed to predict the sale prices of residential properties based on various features. This project aims to leverage historical data to build a predictive model that can assist buyers, sellers, and real estate professionals in making informed decisions regarding property transactions.
 
+Here is the final deliverable:
+![image](https://github.com/user-attachments/assets/31ea2ef2-e55d-4768-8854-dd178c1ec934)
+
 ## Objectives
 - **Data Analysis:** To explore and analyze the dataset, identifying key features that influence house prices.
 - **Data Preprocessing:** To clean and preprocess the data, handling missing values, encoding categorical variables, and normalizing numerical features.
