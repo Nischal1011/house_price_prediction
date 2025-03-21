@@ -45,6 +45,7 @@ The models will be evaluated based on their predictive performance on a validati
 - **Continuous Learning:** Implement a feedback loop to update the model with new data over time, ensuring its predictions remain accurate.
 
 ## Kaggle Leaderboard
+Out of 4058 (12 percentile)
 ![image](https://github.com/user-attachments/assets/a41aff05-44c2-4517-ad85-f3231b38f5b1)
 
 
