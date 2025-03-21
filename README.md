@@ -44,6 +44,10 @@ The models will be evaluated based on their predictive performance on a validati
 - **Deployment:** Develop a web application to allow users to input property features and receive price predictions in real-time.
 - **Continuous Learning:** Implement a feedback loop to update the model with new data over time, ensuring its predictions remain accurate.
 
+## Kaggle Leaderboard
+![image](https://github.com/user-attachments/assets/a41aff05-44c2-4517-ad85-f3231b38f5b1)
+
+
 ## References
 - [A Step-by-Step Guide to Building an End-to-End Machine Learning Project](https://ai.plainenglish.io/a-step-by-step-guide-to-building-an-end-to-end-machine-learning-project-6f695bb29149)
 - [Kaggle House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
